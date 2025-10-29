@@ -1,4 +1,4 @@
-> [! WARNING]
+> [!WARNING]
 > ## `GITHUB` no tiene
 > Soporte para Php, el cual
 > Los códigos no salen con
