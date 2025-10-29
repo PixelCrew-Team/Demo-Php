@@ -1,5 +1,3 @@
-// auth_config.php
-
 <?php
 // auth_config.php - Configuración del sistema de autenticación
 
