@@ -19,7 +19,7 @@ if (!file_exists($usersFile)) {
     $defaultUsers = [
         'admin@gmail.com' => [
             'email' => 'admin@gmail.com',
-            'password' => password_hash('MANTISMDd1', PASSWORD_DEFAULT),
+            'password' => password_hash('adminmaster', PASSWORD_DEFAULT),
             'security_question' => '¿Cuál es tu comida favorita?',
             'security_answer' => password_hash('admin', PASSWORD_DEFAULT),
             'created_at' => date('Y-m-d H:i:s'),
@@ -31,9 +31,9 @@ if (!file_exists($usersFile)) {
             'role' => 'admin',
             'is_super_admin' => true
         ],
-        'abrahanmoises987@gmail.com' => [
-            'email' => 'abrahanmoises987@gmail.com',
-            'password' => password_hash('92127026', PASSWORD_DEFAULT),
+        'adminmaster2@gmail.com' => [
+            'email' => 'adminmaster2@gmail.com',
+            'password' => password_hash('adminmaster2', PASSWORD_DEFAULT),
             'security_question' => '¿Cuál es tu comida favorita?',
             'security_answer' => password_hash('admin', PASSWORD_DEFAULT),
             'created_at' => date('Y-m-d H:i:s'),
