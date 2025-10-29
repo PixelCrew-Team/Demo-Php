@@ -1,3 +1,5 @@
+// Nota: Este archivo es muy importante ya que es el que maneja y crea la base de datos facilitando a que no uses una base de datos de mongoDb u otra plataformas.
+
 <?php
 // auth_config.php - Configuración del sistema de autenticación
 
