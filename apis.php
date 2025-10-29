@@ -1,6 +1,5 @@
-/* AVISO IMPORTANTE:
---> Este solo es un ejemplo osea que tienes que modificar el código para añadirle más categorías y apis. entre estos solo existe el archivo dl.php los otros tienes que añadirlos tu si quieres te guías del código dl.php
-*/
+// AVISO IMPORTANTE:
+// --> Este solo es un ejemplo osea que tienes que modificar el código para añadirle más categorías y apis. entre estos solo existe el archivo dl.php los otros tienes que añadirlos tu si quieres te guías del código dl.php.
 
 <?php
 // apis.php - Página de APIs (protegida con login)
