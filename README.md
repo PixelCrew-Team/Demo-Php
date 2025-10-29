@@ -1,5 +1,5 @@
 > [!WARNING]
-> ## `GITHUB` *no tiene*
+> ## `GITHUB` **no tiene**
 > Soporte para Php, el cual
 > Los códigos no salen con
 > Colores (Sintaxis)
